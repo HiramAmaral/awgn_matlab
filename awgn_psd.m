@@ -1,7 +1,7 @@
 %
 % How to generete AWGN with correct PSD on MATLAB
 %
-clear all
+clear 
 clc
 
 FFT_convention = 0; % 0 - Classic FFT convention (default on Matlab)
